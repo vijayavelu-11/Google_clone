@@ -1,2 +1,2 @@
-const String apiKey = "YOUR API KEY";
-const String contextKey = "YOUR CONTEXT KEY";
+const String apiKey = "your_api_key";
+const String contextKey = "your_api_key";
